@@ -13,4 +13,4 @@
 
 ________
 ### Опубликованный проект
-Ознакомиться с проектом вы сможете по ссылке [how-to-make-photo](https://andreyvolkov88.github.io/WOODIES/).
+Ознакомиться с проектом вы сможете по ссылке [wodies](https://andreyvolkov88.github.io/WOODIES/).
